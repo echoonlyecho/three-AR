@@ -1,0 +1,8 @@
+{
+  "name": "Gundam Builder Live",
+  "description": "An interactive 3D block building experience powered by Gemini Live API. Use your voice and camera to build, stack, and topple blocks in a Gundam-inspired environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
